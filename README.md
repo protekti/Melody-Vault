@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/protekti/Melody-Vault">
-    <img src="[images/logo.png](https://cdn.discordapp.com/attachments/982356349285466112/1119591275482587256/logo.png)" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/982356349285466112/1119591275482587256/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Melody Vault</h3>
