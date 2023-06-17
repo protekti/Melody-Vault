@@ -11,6 +11,6 @@
   <p align="center">
     Download youtube videos in MP3 format using this program!
     <br />
-    <a href="[https://github.com/othneildrew/Best-README-Template](https://drive.google.com/uc?export=download&id=1dKskXtR1RphXFTvuRvCSPJHtNiZujnPr)"><strong>Download the installer!</strong></a>
+    <a href="https://drive.google.com/uc?export=download&id=1dKskXtR1RphXFTvuRvCSPJHtNiZujnPr"><strong>Download the installer!</strong></a>
   </p>
 </div>
